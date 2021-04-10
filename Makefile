@@ -1,5 +1,5 @@
-MOSQUITTO_SRC ?= ./
-PYTHON_VERSION ?= 3.6
+MOSQUITTO_SRC ?= /home/linuxbrew/.linuxbrew/Cellar/mosquitto/2.0.8
+PYTHON_VERSION ?= 3.8
 
 PYTHON_CONFIG = python$(PYTHON_VERSION)-config
 
